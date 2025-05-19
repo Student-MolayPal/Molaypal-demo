@@ -1,4 +1,4 @@
 # Molaypal-demo
-this is my first git repository
+This is my first Git Repository.
 <br>
-my name is molay pal
+Author-Molay pal
